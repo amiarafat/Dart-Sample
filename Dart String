@@ -4,6 +4,22 @@ void main() {
   var lName = "Arafat";
   
   print(fName +" " +lName);
+  // Triple quotes define a multi-line string.
+  print('''Hossain
+  Arafat''');
+  
+  // Dart supports string interpolation.
+  var pi = 3.14;
+  print('pi is $pi');
+  print('tau is ${2 * pi}');
+  
 }
 
 Output: Hossain Arafat
+Hossain
+Arafat
+
+pi is 3.14
+tau is 6.28
+
+
