@@ -1,0 +1,17 @@
+void main() {
+  int a =5; 
+  int b =6;
+ 
+  
+  print (a+b);
+  print (a-b);
+  print (a*b);
+  print (a/b);
+}
+
+
+output: 
+11
+-1
+30
+0.8333333333333334
