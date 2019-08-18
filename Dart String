@@ -1,0 +1,9 @@
+void main() {
+  
+  var fName = " Hossain";
+  var lName = "Arafat";
+  
+  print(fName +" " +lName);
+}
+
+Output: Hossain Arafat
